@@ -1,0 +1,45 @@
+# Bella Real Estate
+
+> Bella Real Estate is a real estate business in Da Nang, Vietnam, run by Bella. It offers apartments for rent in Sam Tower, The Ponte, Panoma 1 and Panoma 2, helps clients buy apartments and works with property owners.
+
+Bella has worked in Da Nang real estate for 10 years. She helps clients rent and buy apartments, with a focus on international clients, and offers apartments in Sam Tower, The Ponte, Panoma 1 and Panoma 2.
+
+Prices on this site are starting prices per month in US dollars. Each apartment is different and availability changes often, so Bella confirms prices and free apartments on WhatsApp or Zalo. She shows apartments in person, or by video call before you arrive. Bella speaks English and Vietnamese. The site is in English, Vietnamese, Russian and Korean.
+
+<!-- BEGIN rentals -->
+## Rentals
+
+Starting rent per month in USD, by building and apartment type (prices confirmed 2026-10-07):
+
+- [Sam Tower](https://TODO-domain/residences/sam-tower) (Hải Châu): 1 Bedroom from $690; 2 Bedrooms from $920; 3 Bedrooms from $1,420
+- [The Ponte](https://TODO-domain/residences/the-ponte): 1 Bedroom price on request; 2 Bedrooms price on request; 3 Bedrooms price on request
+- [Panoma 1](https://TODO-domain/residences/panoma-1): Studio price on request; 1 Bedroom from $850; 2 Bedrooms from $1,540; 3 Bedrooms from $1,730
+- [Panoma 2](https://TODO-domain/residences/panoma-2): Studio price on request; 1 Bedroom from $890; 2 Bedrooms from $1,540; 3 Bedrooms from $2,120
+
+All apartment types: https://TODO-domain/luxury-developments
+<!-- END rentals -->
+
+## For sale
+
+Sales listings are in preparation. Bella helps clients buy apartments in Da Nang; ask her on WhatsApp or Zalo. https://TODO-domain/buy
+
+## Contact
+
+- WhatsApp: https://wa.me/84935182382
+- Zalo: https://zalo.me/0935182382
+- Phone: +84 93 518 23 82
+- Email: khoihungproperty777@gmail.com
+
+## Pages
+
+- [Home](https://TODO-domain/)
+- [Luxury developments](https://TODO-domain/luxury-developments)
+- [Sam Tower](https://TODO-domain/residences/sam-tower)
+- [The Ponte](https://TODO-domain/residences/the-ponte)
+- [Panoma 1](https://TODO-domain/residences/panoma-1)
+- [Panoma 2](https://TODO-domain/residences/panoma-2)
+- [Buy an apartment](https://TODO-domain/buy)
+- [About Bella](https://TODO-domain/about)
+- [Blog](https://TODO-domain/blog)
+
+Every page is also available in Vietnamese (https://TODO-domain/vi/), Russian (https://TODO-domain/ru/) and Korean (https://TODO-domain/ko/).

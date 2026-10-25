@@ -1,0 +1,1 @@
+var e={en:`en-GB`,vi:`vi-VN`,ru:`ru-RU`,ko:`ko-KR`};function t(t,n){return new Intl.DateTimeFormat(e[n],{day:`numeric`,month:`long`,year:`numeric`,timeZone:`UTC`}).format(new Date(`${t}T00:00:00Z`))}export{t};
